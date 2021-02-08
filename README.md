@@ -4,6 +4,12 @@ Saint Sophia Cathedral, Kyiv, Ukraine 3D in blender
 3D model of Saint Sophia Cathedral in Kiev, Ukraine made in blender.
 
 -------------------------------------------------------------------------
+
+Image recognition application made with unity. Unity and apk files and video demonstration of application on the following link.
+
+[Saint Sophia Cathedral image recognition](https://drive.google.com/file/d/1PkEWk0EB2qg9-pk55AVFip-4znp5JKVb/view?usp=sharing)
+
+-------------------------------------------------------------------------
 Some rendered images of model:
 
 ![alt text](https://github.com/nhastor1/Saint-Sophia-Cathedral/blob/main/Renderi/render8.png?raw=true)
